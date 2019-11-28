@@ -27,8 +27,7 @@ user guide:
 5-press on any of the 4 effected.
 6-you can press save and undo or redo any time.
  
-GitHub Link :
-https://github.com/HalaBadr/ImageEditor
+
 
 
 
